@@ -1,0 +1,3 @@
+[submodule "thisissub"]
+	path = thisissub
+	url = https://github.com/morganottosson/thisissub.git
